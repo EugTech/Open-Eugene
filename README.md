@@ -6,9 +6,7 @@ This is the open repo where planning is happening be the leadership team as well
 ## Leadership Team ##
 
 - [Lauren Jerome](https://github.com/laurenjerome)
-- Thomas Price
 - [Seth Dudenhofer](https://github.com/sdudenhofer)
-- [Lauren Brown](https://github.com/LaurenLayaliBrown)
 - [Emily Clyde](https://github.com/emilyclyde)
 - [Anthony Casson](https://github.com/ascasson)
 - [Barbara Bochnovic](https://github.com/cascadiaB)
