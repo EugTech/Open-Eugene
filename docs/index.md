@@ -4,7 +4,7 @@ Part hack-a-thon, part conference, part art exhibition. We are working with lear
 
 ### Working Open = Open Data :: Open Software :: Open Hardware :: Open Projects ###
 
-Participants can learn from Mozilla Open Leaders the basics of running open projects. Various local projects like KING-PONG (open hardware) and EugeneTech (open project) will be opened in real-time through the weekend in hands-on workshops. Bring your own projects and we’ll help you pick the right open source or creative commons license to help share your work with the world.
+Participants can learn from Mozilla Open Leaders the basics of running open projects.  Various local projects from teams at the University of Oregon (Open Data), Downtown Eugene artists (Open Hardware), Local Software Companies (Open Source Software)  will be “Working Open” through the weekend in hands-on workshops.   Bring your own projects and we’ll help you pick the right open source or creative commons license to help share your work with the world.  Bring your energy and we’ll help you collaborate.
 
 ## When ##
 Open Eugene Fest will be happening Friday November 30th and Saturday December 1st 2018.  
@@ -12,7 +12,7 @@ Open Eugene Fest will be happening Friday November 30th and Saturday December 1s
 ## Submit a project ##
 (coming soon)
 
-## Signup ##
+## Signup as a Contributer, Volunteer, or Buy a Ticket ##
 (coming soon)
 
 ## Sponsor ##
