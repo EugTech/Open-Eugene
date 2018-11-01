@@ -11,6 +11,7 @@ Open Eugene Fest will be happening Friday November 30th and Saturday December 1s
 
 ## Submit a project ##
 You'd like your project to be move down the happy-path to open-source
+
 [Fill in the project form here](https://goo.gl/forms/xQsoEPznuxRDdhNz2)
 
 ## Submit programming ##
