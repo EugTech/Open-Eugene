@@ -10,7 +10,7 @@ Participants can learn from Mozilla Open Leaders the basics of running open proj
 Open Eugene Fest will be happening Friday November 30th and Saturday December 1st 2018.  
 
 ## Submit a project ##
-[Fill out the project foms](https://goo.gl/forms/xQsoEPznuxRDdhNz2)
+[Fill out the project forms](https://goo.gl/forms/xQsoEPznuxRDdhNz2)
 
 ## Signup as a Contributer, Volunteer, or Buy a Ticket ##
 (coming soon)
