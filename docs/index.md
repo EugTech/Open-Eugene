@@ -1,4 +1,4 @@
-# All About Open #
+# What's a Festival about "Open"? #
 
 Part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community.
 
