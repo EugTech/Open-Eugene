@@ -1,3 +1,5 @@
+![logog](ope-eugene-fest.png "Logo Title")
+
 # What's an Open Festival? #
 
 Part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community.
@@ -27,3 +29,4 @@ Do you have a case study to talk about, or plans to provide open-data? Can teach
 [download the sponsorship details](open-eugene-fest-sponsorship.pdf)
 
 
+[logo]: ope-eugene-fest.png "Logo Title"
