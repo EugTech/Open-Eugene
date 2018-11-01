@@ -6,8 +6,9 @@ Part hack-a-thon, part conference, part art exhibition. We are working with lear
 
 Participants can learn from Mozilla Open Leaders the basics of running open projects.  Various local projects from teams at the University of Oregon (Open Data), Downtown Eugene artists (Open Hardware), Local Software Companies (Open Source Software)  will be “Working Open” through the weekend in hands-on workshops.   Bring your own projects and we’ll help you pick the right open source or creative commons license to help share your work with the world.  Bring your energy and we’ll help you collaborate.
 
-## When ##
-Open Eugene Fest will be happening Friday November 30th and Saturday December 1st 2018.  
+## When & Where ##
+Open Eugene Fest will be happening Friday November 30th and Saturday December 1st 2018.
+Location is TBD but will definately be downtown, Eugene.
 
 ## Submit a project ##
 We are looking for projects that collaborators can work on during  the event.  Maybe you have a project that is up and running but not open-sourced.  We can help take you to the next level.  Perhaps you have an idea for a project and would like to start it out by working in the open.  We can get you started. Or maybe you have some data stuck in a flat file somewhere you;d like to see made available to the world or have a PI built.  That works too!  We'd love to build community connections between projects and contributors. 
