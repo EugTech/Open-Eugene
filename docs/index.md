@@ -1,6 +1,6 @@
 # What's an Open Festival? #
 
-Part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community.
+Part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community. [Here's a 5-minute explainer video](https://youtu.be/8VDYcNPw9zA) from [Mark Davis](https://github.com/nohorse)
 
 ### Working Open = Open Data :: Open Software :: Open Hardware :: Open Projects ###
 
