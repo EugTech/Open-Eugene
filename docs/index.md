@@ -1,8 +1,10 @@
 # What's an Open Festival?
 
-Part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community. [Here's a 5-minute explainer video](https://youtu.be/8VDYcNPw9zA) from [Mark Davis](https://github.com/nohorse)
+What is "Working Open?" You'll see Mozilla's ethos of “open” in action at the festival-- it's about making concepts and projects 1) easy to understand, 2) easy to share, remix and build on, and 3) welcoming to all participants, from any background. Open Eugene Festival is a great space to experience and experiment with this approach—we call it “working open”
 
-### Working Open = Open Data :: Open Software :: Open Hardware :: Open Projects
+The Festival is part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community. [Here's a 5-minute explainer video](https://youtu.be/8VDYcNPw9zA) from [Mark Davis](https://github.com/nohorse)
+
+### Open Data :: Open Software :: Open Hardware :: Open Projects
 
 Participants can learn from Mozilla Open Leaders the basics of running open projects.  Various local projects from teams at the University of Oregon (Open Data), Downtown Eugene artists (Open Hardware), Local Software Companies (Open Source Software)  will be “Working Open” through the weekend in hands-on workshops.   Bring your own projects and we’ll help you pick the right open source or creative commons license to help share your work with the world.  Bring your energy and we’ll help you collaborate.
 
