@@ -23,10 +23,13 @@ Do you have a case study to talk about, or plans to provide open-data? Can teach
 [Fill in the programming form here](https://goo.gl/forms/tg0Il8VadaCCdMSJ2)
 
 ## Signup as a Contributor, Volunteer, or Buy a Ticket
-[get your ticket on eventbrite](https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587)
+[Get your ticket on eventbrite](https://www.eventbrite.com/e/open-eugene-festival-tickets-52110392587)
 
 ## Sponsor
-[download the sponsorship details](open-eugene-fest-sponsorship.pdf)
+[Download the sponsorship details](open-eugene-fest-sponsorship.pdf)
 
+## Code of Conduct
+ [View our Code of Conduct](https://github.com/EugTech/Open-Eugene/blob/master/CODE_OF_CONDUCT.md)
+ 
 
 ![logog](ope-eugene-fest.png "Logo Title")
