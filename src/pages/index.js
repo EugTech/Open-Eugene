@@ -2,16 +2,12 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
-import Image from '../components/image'
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
-      <Image />
-    </div>
+    <h1>What is Open Eugene Festival?</h1>
+    <p>You’ll see Mozilla’s ethos of “open” in action at the festival – it’s about making concepts and projects 1) easy to understand, 2) easy to share, remix and build on, and 3) welcoming to all participants, from any background. Open Eugene Festival is a great space to experience and experiment with this approach—we call it “working open”</p>
+    <p>The Festival is part hack-a-thon, part conference, part art exhibition. We are working with learners & leaders to help citizens of Eugene open projects, improve collaboration, and inspire the community. <a href="https://youtu.be/8VDYcNPw9zA">Here's a 5-minute explainer video</a> from <a href="https://github.com/nohorse">Mark Davis</a></p>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )

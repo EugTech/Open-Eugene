@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Open Eugene Festival',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
