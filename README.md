@@ -14,6 +14,8 @@ To get started, clone and...
     gatsby develop
     ```
 
+The `gatsby build` will make a deployable static site in the public folder. To use with github-pages, we either need a gh-pages branch, or we can put this in the docs folder on the master branch.
+
 ## Leadership Team ##
 
 - [Lauren Jerome](https://github.com/laurenjerome)
