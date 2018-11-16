@@ -1,0 +1,48 @@
+
+[
+ {
+   "Timestamp": "11/1/2018 20:36:31",
+   "Project Name": "The Eugene Coding Initiative",
+   "Type of Project": "Open Source Software : Release your code using an OSS License",
+   "What are your needs?": "",
+   "What stage is your project in today?": "already open and available online",
+   "Link to GitHub or other Repo, Google docs, etc.": "",
+   "Are you willing to demo it to a group?": "Yes",
+   "How do you plan on attending the conference?": "Both Days",
+   "Email Address": "nikole@thatsupergirl.com",
+   "Shorter Description (the tweet version 140 chars)": "We're teaching kids to code in Lane County!",
+   "Longer Description": "We're teaching kids to code using fun, robots and more! Working with local partners, we're running educational coding programs for kids all ages.",
+   "Your Name": "Nikole Gipps",
+   "Your twitter account or GitHub handle": "websupergirl"
+ },
+ {
+   "Timestamp": "11/6/2018 9:51:14",
+   "Project Name": "Killer.App",
+   "Type of Project": "Open Source Software : Release your code using an OSS License, Open Data : You have APIs or raw data you would like accessible to more people",
+   "What are your needs?": "Looking for more collaborators",
+   "What stage is your project in today?": "It's a working project, but not open yet",
+   "Link to GitHub or other Repo, Google docs, etc.": "",
+   "Are you willing to demo it to a group?": "No",
+   "How do you plan on attending the conference?": "Both Days",
+   "Email Address": "joseph@eugeniuses.com",
+   "Shorter Description (the tweet version 140 chars)": "An open source, mobile enabled and fully adaptable game that uses Alternate Reality Gaming methods linked with elements of True Crime fandom and an escape room ethos. ",
+   "Longer Description": "and fully adaptable game that uses Alternate Reality Gaming methods linked with elements of True Crime fandom and an escape room ethos. ",
+   "Your Name": "Joseph M",
+   "Your twitter account or GitHub handle": "@eugeniusestech"
+ },
+ {
+   "Timestamp": "11/14/2018 1:38:53",
+   "Project Name": "Glass_Beatstation",
+   "Type of Project": "Open Source Software : Release your code using an OSS License",
+   "What are your needs?": "Looking for more collaborators, Learn how to open it up - tips., tools, and templates",
+   "What stage is your project in today?": "It's a working project, but not open yet",
+   "Link to GitHub or other Repo, Google docs, etc.": "",
+   "Are you willing to demo it to a group?": "Yes",
+   "How do you plan on attending the conference?": "Both Days",
+   "Email Address": "alignwaivers@gmail.com",
+   "Shorter Description (the tweet version 140 chars)": "Loopstation, Sequencer, and instrument: A linux-based musical interface that uses python to control sooperlooper, jack transport, Hydrogen, and any other midi or osc instrumentation",
+   "Longer Description": "This is an evolving project oriented towards enabling anyone to make music intuitively on open source software: utilizing the modular nature of open source resources to be operated and formatted as the user desires. At this stage it is a beefed up loopstation, sequencer, and midi controller which  uses a Novation Launchpad as the physical interface, python and open sound control to facilitate communication,  hydrogen as drums, and uses Jack to synchronize and make audio/midi connections. It is intended to be used with a mic or other instruments if so desired",
+   "Your Name": "Athan Spathas",
+   "Your twitter account or GitHub handle": "alignwaivers"
+ }
+]
