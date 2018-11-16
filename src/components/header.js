@@ -1,11 +1,15 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import Navbar from './navbar';
 
 const Header = ({ siteTitle }) => (
   <div
     style={{
       background: 'rebeccapurple',
       marginBottom: '1.45rem',
+      display: 'flex',
+      flexWrap: 'wrap',
+      alignItems: 'center',
     }}
   >
     <div
@@ -27,6 +31,7 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    <Navbar />
   </div>
 )
 
