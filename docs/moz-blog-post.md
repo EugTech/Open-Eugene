@@ -1,7 +1,7 @@
 
 # MozFest leads to Open Eugene Festival
 
-I was privileged to attend MozFest in London in October 2018. I’m no stranger to conferences. CES, OSCON, Build, NOMCON, Maker Faires, I’ve seen a few. To few to mention. Hackathons are my favorite, or were until I encountered MozFest. Most conferences you go for the speakers, the swag, the talks. At MozFest you go for the people, the projects and the community.
+I was grateful to attend MozFest in London in October 2018. I’m no stranger to conferences. CES, OSCON, Build, NOMCON, Maker Faires, I’ve seen a few. Too few to mention. Hackathons are my favorite, or were until I encountered MozFest. Most conferences you go for the speakers, the swag, the talks. At MozFest you go for the people, the projects and the community.
 
 ![Folks posing for a group shot at MozFest](https://cdn-images-1.medium.com/max/2400/1*AjYufUtbZJFvP7hs0EpZNg.png)*Folks posing for a group shot at MozFest*
 
@@ -13,15 +13,15 @@ If Moz is not a term familiar to you, or you think I’m talking about an SEO pr
 
 ![](https://cdn-images-1.medium.com/max/2000/0*T99GVjWyRA55eSJ6)
 
-Mozilla Foundation makes it rain grant money all over the world for all sorts of well intended projects. We experienced this locally when Eugene participated in the Mozilla Gigibit Cities program in 2017–2018. They host a festival every year in London where teams from all over the world get together to celebrate the projects they are working on, provide great experiential spaces, hold workshops on things people care about and generally get to see each other briefly IRL (In Real Life).
+Mozilla Foundation makes it rain grant money all over the world for many well intended projects. We experienced this locally when Eugene participated in the Mozilla Gigibit Cities program in 2017–2018. Moz hosts a festival every year in London where teams from all over the world get together to celebrate the projects they are working on, provide great experiential spaces, hold workshops on things people care about and generally get to see each other briefly IRL (In Real Life).
 
-I was lucky enough to attend by invitation as part of my attendance in Mozilla Open Leaders program and a stipend from the aforementioned Mozilla Gigibit Citys grants. It’s unclear how I stumbled into such luck, but it’s likely related to the time and energy spent collaborating with the Eugene Grantees.
+I was lucky enough to be invited as part of my attendance in Mozilla Open Leaders program and a stipend from the aforementioned Mozilla Gigabit Cities grants. It’s unclear how I stumbled into such luck, but it’s likely related to the time and energy spent collaborating with the Eugene grantees.
 
 ## What’s “Open” ?
 
 ![](https://cdn-images-1.medium.com/max/2000/1*6bYWYmXhlVLSwI1A5z5aLA.png)
 
-Tech folks know about “open-source software” that’s shared with the community. DIY project builders know about “open hardware” and share and remix projects openly on sites like Instructables. Scientists and government agencies talk about “open data”. Mozilla Open Leaders, the training I’m going thru now, teaches “working open” defined it as:
+Tech folks know about “open-source software” that’s shared with the community. DIY builders know about “open hardware” and share and remix projects openly on sites like Instructables. Scientists and government agencies talk about “open data”. Artists release art under creative commons licenses. Mozilla Open Leaders teaches “working open” defined it as:
 
 * Easy to understand,
 
@@ -29,7 +29,7 @@ Tech folks know about “open-source software” that’s shared with the commun
 
 * Welcoming to all participants, from any background.
 
-EugeneTech’s mission of creating open and inclusive tech community in Eugene runs projects in the open. We’ve been doing this without formal training for projects like KING-PONG that wrangled a dozen collaborators with diverse skills to make those events amazing. We use tools like the Switchboard and the ET-Slack to work open. Tools we also maintain for the community as a community service.
+EugeneTech, with its mission of creating open and inclusive tech community in Eugene, runs projects in the open. We’ve been doing this without formal training for projects like KING-PONG that wrangled a dozen collaborators with diverse skills. Now we are formalizing our processes. We use tools like the Switchboard and the ET-Slack to work open. These are tools we also maintain for the community as a free community service. How open is that?
 
 ## Say hello to Open Eugene Festival
 
@@ -41,7 +41,7 @@ Students in Mozilla Open Leader training being a project with them and “Open E
 
 ![EugeneTech and Silicon Shire logos](https://cdn-images-1.medium.com/max/2000/1*4vQoP1WOBE86cw2h6PemMQ.png)*EugeneTech and Silicon Shire logos*
 
-To my knowledge this is the first intentional gathering of open enthusiasts in Eugene. We’ve spun up a fresh leadership team for this project by soliciting the community, launched a web site, and will be on-boarding projects, speakers, and entertainment for a fun fresh event December 14–15th downtown. We are very pleased to have local open source heroes Badgr hanging out. Our theme is “open all the things” and welcome everyone to the conversation in the process. This is the first of what will hopefully be an annual event.
+This is the likely the first intentional gathering of open enthusiasts in Eugene. BarCamp in January 2018 was a great un-conference and one of the most well attended sessions was on open data. For Open Eugene Festival we’ve spun up a fresh leadership team by soliciting the community, launched a web site, and are on-boarding projects, speakers, and entertainment for a fun fresh event December 14–15th downtown. We are very pleased to have local open source heroes Badgr hanging out. Our theme is “open all the things” and welcome everyone to the conversation in the process. This is the first of what will hopefully be an annual event.
 
 ## What to expect at Open Eugene Fest
 
@@ -49,7 +49,7 @@ Friday night we’ll be kicking things off with some great local food and drinks
 
 ![](https://cdn-images-1.medium.com/max/2080/1*WzCrblsi_e-RRrznB9TKGw.png)
 
-Saturday starts at 9AM with folks working on said projects. Open rotation stations with experts will set these projects up for success. Noon is a very special international experience about open communication live-streamed and followed by sunset exposition from a children's drumming troop from Rio de Janeiro. Locally sourced lunch and free-form time to button up the projects in the afternoon. Highlight of the day is a fantastic influencing workshop followed by a Open Badges big finish from the Badgr team.
+Saturday doors open at 9AM with folks working on said projects. Rotation stations with experts will set these projects up for success. Noon is a very special international experience about open communication live-streamed and followed by sunset exposition from a children's drumming troop from Rio de Janeiro. Locally sourced lunch and free-form time to button up the projects in the afternoon. Highlight of the day is a fantastic influencing workshop followed by an Open Badges big finish from the Badgr team.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*xQp2zcay71snB_oBAqdNEw.png)
 
